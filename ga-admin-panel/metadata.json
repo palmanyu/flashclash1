@@ -1,0 +1,6 @@
+{
+  "name": "GA Admin Panel",
+  "description": "Pixel-perfect, mobile-friendly administration panel and management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
